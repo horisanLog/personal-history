@@ -95,6 +95,6 @@ Wordpressで構築していたスクールの管理システムのリプレイ�
 ### 開発担当
 (省略)※詳細は後日開示
 
-# 勉強会内容
+# 勉強会
 Reactの再レンダリングの最適化  
 https://speakerdeck.com/horisan
