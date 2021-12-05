@@ -95,6 +95,22 @@ Wordpressで構築していたスクールの管理システムのリプレイ�
 ### 開発担当
 (省略)※詳細は後日開示
 
+
 # 勉強会
 Reactの再レンダリングの最適化  
 https://speakerdeck.com/horisan
+
+
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/horisanLog/posts.svg)](http://qiita.com/horisanLog) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/horisanLog/contributions.svg)](http://qiita.com/horisanLog) [![My Qiita followers](https://qiita-badge.apiapi.app/s/horisanLog/followers.svg)](http://qiita.com/horisanLog)
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=horisanLog&show_icons=true&theme=cobalt" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=horisanLog&theme=cobalt" />
+</a>
+
+<a href="https://github.com/horisanLogJP" target="_blank">
+  <img src="https://grass-graph.moshimo.works/images/horisanLogJP.png?rotate=0">
+</a>
