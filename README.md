@@ -101,7 +101,7 @@ Reactの再レンダリングの最適化
 https://speakerdeck.com/horisan
 
 
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/horisanLog/posts.svg)](http://qiita.com/horisanLog) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/horisanLog/contributions.svg)](http://qiita.com/horisanLog) [![My Qiita followers](https://qiita-badge.apiapi.app/s/horisanLog/followers.svg)](http://qiita.com/horisanLog)
+# Github Status
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
