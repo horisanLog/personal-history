@@ -12,7 +12,7 @@
 - 言語
   - JavaScript / TypeScript
   - Ruby
-  - go(個人開発)
+  - Go(個人開発)
  
 - フレームワーク
   - React.js
