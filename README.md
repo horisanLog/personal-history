@@ -30,8 +30,11 @@
   - GitHub
   - CI/CD(CircleCI)
   - Figma
+
+- 資格
+  - AWS認定ソリューションアーキテクトアソシエイト（SAA）
   
- # Job history
+# Job history
  
 ## 2021/07 ~ 現在
 Wordpressで構築していたスクールの管理システムのリプレイスの立ち上げに従事。
