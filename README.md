@@ -36,6 +36,8 @@
  
 - ツール、その他
   - Slack
+  - MySQL
+  - PostgreSQL
   - Notion
   - GitHub
   - CI/CD(CircleCI)
@@ -59,6 +61,7 @@ Wordpressで構築していたスクールの管理システムのリプレイ�
 - バックエンド
   - Ruby on Rails
   - Docker
+  - MySQL
 
 - その他
   - GCP
@@ -136,6 +139,7 @@ Wordpressで構築していたスクールの管理システムのリプレイ�
   - Ruby on Rails
   - Docker
   - swagger
+  - PostgreSQL
 
 - その他
   - GCP
@@ -190,6 +194,7 @@ Wixのようにwebサイトを構築できるノーコードのSaSSサービス�
 - バックエンド
   - Ruby on Rails
   - Docker
+  - MySQL
 
 - その他
   - CI/CD(CircleCI)
