@@ -42,6 +42,7 @@
   - GitHub
   - CI/CD(CircleCI)
   - Figma
+  - macOS
 
 - 資格
   - AWS認定ソリューションアーキテクトアソシエイト（SAA）
