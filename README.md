@@ -17,7 +17,7 @@
 - フレームワーク
   - 言語フレームワーク
     - React.js
-      - Next.js （個人開発）
+      - Next.js
     - Vue.js
       - Nuxt.js
     - Ruby on Rails
