@@ -47,6 +47,7 @@
 
 - 資格
   - AWS認定ソリューションアーキテクトアソシエイト（SAA）
+  - Ruby Silver
   
 # Job history
  
