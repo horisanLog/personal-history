@@ -26,7 +26,8 @@
     - PostCss
   - Testツール
     - Cypress
-    - Jest 
+    - Jest
+    - Playwright
   - インフラツール
     - Firebase
     - AWS
@@ -42,6 +43,7 @@
   - PostgreSQL
   - Notion
   - GitHub
+  - GithubAction
   - CI/CD(CircleCI)
   - Figma
   - macOS
@@ -64,11 +66,13 @@ Wordpressで構築していたスクールの管理システムのリプレイ�
 - フロント
   - React.js
   - Cypress
-  - Material-ui
+  - Material UI
   - TypeScript
+  
 - バックエンド
   - Ruby on Rails
-
+  - Rspec
+  
 - その他
   - Docker
   - MySQL
@@ -134,20 +138,22 @@ Wordpressで構築していたスクールの管理システムのリプレイ�
 ### 開発環境
 - フロント
   - Vue.js
-    - jest
-    - nuxt.js
-  - PostCss
-  - StoryBook
+    - Nuxt.js
   - TypeScript
+  - Jest
+  - PostCSS
+  - Storybook
+
 - バックエンド
   - Ruby on Rails
-  - swagger
+  - Rspec
+  - Swagger
 
 - その他
   - Docker
   - PostgreSQL
   - GCP
-  - CI/CD(CircleCI)
+  - CircleCI
   - Sentry
   - Figma
   
@@ -183,13 +189,16 @@ Wordpressで構築していたスクールの管理システムのリプレイ�
 - フロント
   - React.js
   - Cypress
-  - Material-ui
+  - Material UI
   - TypeScript
+
 - バックエンド
   - Ruby on Rails
+  - Rspec
 
 - その他
   - Docker
+  - GithubActions
   - MySQL
   - AWS ECS
   - AWS RDS for MySQL
@@ -230,17 +239,22 @@ Wordpressで構築していたスクールの管理システムのリプレイ�
  →　12/10くらいに同じ環境を作ることができた。次はlambdaやEKSを勉強していく。
 
 ## 2023/02 ~ 現在
-食べログの新規事業開発にjoin。モバイルオーダーシステムの機能開発/運用/保守を担当。
+食べログの新規事業開発にJoin。モバイルオーダーシステムの機能開発/運用/保守を担当。
 企画担当と連携したサービス仕様/システム要件の定義と調整、サービス改善提案など上流部分も担当している。
 
 ### 開発環境
 - フロント
   - React.js
-  - Next.js
+   - Next.js
   - TypeScript
+  - Storybook
+  - Jest
+  - Playwright
+
 - バックエンド
   - Ruby on Rails
-  - swagger
+  - Swagger
+  - Rspec
 
 - その他
   - Firebase
@@ -248,6 +262,8 @@ Wordpressで構築していたスクールの管理システムのリプレイ�
   - Docker
   - MySQL
   - Kubernetes
+  - Jenkins
+  - CircleCI
   
 | 期間 | 内容 |　役割/開発チーム規模　|
 ----|----|----
@@ -269,6 +285,9 @@ https://speakerdeck.com/horisan
 # ブログ
 https://zenn.dev/horisan
 
+# 執筆
+https://tech-blog.tabelog.com/entry/project-quality-innovation-through-failure-analysis
+
 # 副業
 ## 2022/01 ~ 
 Wixのようにwebサイトを構築できるノーコードのSaSSサービスに従事。
@@ -280,12 +299,14 @@ Wixのようにwebサイトを構築できるノーコードのSaSSサービス�
   - React.js
   - TypeScript
   - Jest
-  - tailwind
+  - Tailwind
+
 - バックエンド
   - Ruby on Rails
+  - Rspec
 
 - その他
-  - CI/CD(CircleCI)
+  - CircleCI
   - Figma
   - Docker
   - MySQL
