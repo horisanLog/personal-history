@@ -276,7 +276,8 @@ Wordpressで構築していたスクールの管理システムのリプレイ�
 サービスの拡大、複雑性もありQAチームを置いている。
 
 ### 担当
-主にフロントエンドのリードを担当している。バックエンドも担当している。
+フロントエンドとバックエンドも担当している。
+その他にカスタマーサポート業務改善やテスト自動化推進リーダーを行っている。
 
 # 勉強会
 Reactの再レンダリングの最適化  
@@ -287,6 +288,7 @@ https://zenn.dev/horisan
 
 # 執筆
 https://tech-blog.tabelog.com/entry/project-quality-innovation-through-failure-analysis
+https://tech-blog.tabelog.com/
 
 # 副業
 ## 2022/01 ~ 
