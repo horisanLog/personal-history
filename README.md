@@ -126,8 +126,9 @@
 企画担当と連携したサービス仕様/システム要件の定義と調整、チームマネジメントを担当している。
 
 ### 執筆
-https://tech-blog.tabelog.com/entry/project-quality-innovation-through-failure-analysis
-https://tech-blog.tabelog.com/entry/enhancing-web-interfaces-with-custom-half-modals
+
+[プロジェクト品質革新の鍵！『不具合分析』で開発プロセスを改革](https://tech-blog.tabelog.com/entry/project-quality-innovation-through-failure-analysis)
+[理想のUIをめざして！Webでハーフモーダルを作って磨き上げた話](https://tech-blog.tabelog.com/entry/enhancing-web-interfaces-with-custom-half-modals)
 
 ## 2022/03 ~ 2022/12
 社内では初の大型請負の案件。
