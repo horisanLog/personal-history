@@ -16,45 +16,68 @@
 - 言語
   - JavaScript / TypeScript
   - Ruby
-  - Golang(個人開発)
-  - Python(個人開発)
- 
+  - Golang（個人開発）
+  - Python（個人開発）
+
 - フレームワーク
-  - 言語フレームワーク
-    - React.js
-      - Next.js
-    - Vue.js
-      - Nuxt.js
-    - Ruby on Rails
-  - CSSフレームワーク
-    - Material-ui
-    - Tailwind
-    - PostCss
-  - Testツール
-    - Cypress
-    - Jest
-    - Playwright
-  - インフラツール
-    - Firebase
-    - AWS
-    - Docker
-    - GCP
-    - kubernetes
- 
-- ツール、その他
+  - React.js
+    - Next.js
+  - Vue.js
+    - Nuxt.js
+  - Ruby on Rails
+
+- CSSフレームワーク
+  - Material-UI
+  - Tailwind CSS
+  - PostCSS
+
+- テストツール
+  - Cypress
+  - Jest
+  - Playwright
+  - RSpec
+
+- インフラ・CI/CD・監視
+  - Docker
+  - Firebase
+  - AWS（Amplify, Cognito, ECS, RDS, S3, SES, EventBridge）
+  - GCP
+  - Kubernetes
+  - Jenkins
+  - CircleCI
+  - GitHub Actions
+  - New Relic
+  - Grafana
+
+- DB
+  - MySQL
+  - PostgreSQL
+
+- API設計
+  - Swagger / OpenAPI
+
+- デザイン / UI設計支援
+  - Figma
+  - Adobe XD
+  - Storybook
+
+- コラボレーションツール
   - Slack
   - Miro
   - Asana
   - Confluence
-  - MySQL
-  - PostgreSQL
   - Notion
-  - GitHub
-  - GithubAction
-  - CI/CD(CircleCI)
-  - Figma
+  - Microsoft系ツール
+  - Box
+
+- AI開発支援ツール
+  - GitHub Copilot
+  - Cursor
+  - Dify
+  - PR Agent
+
+- OS
   - macOS
-  - XD
 
 - 資格
   - AWS認定ソリューションアーキテクトアソシエイト（SAA）
